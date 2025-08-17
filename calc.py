@@ -1,3 +1,5 @@
+import pandas as pd
+
 print('Calculator ready for input!')
 str1=input('Enter first number: ')
 try:
